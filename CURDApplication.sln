@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURDApplication", "CURDApplication\CURDApplication.csproj", "{576DDFCE-77B1-4512-93F8-074AC0A0A92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576DDFCE-77B1-4512-93F8-074AC0A0A92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576DDFCE-77B1-4512-93F8-074AC0A0A92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576DDFCE-77B1-4512-93F8-074AC0A0A92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576DDFCE-77B1-4512-93F8-074AC0A0A92A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE83860-3DDF-41B2-962C-E93688B61E99}
+	EndGlobalSection
+EndGlobal
